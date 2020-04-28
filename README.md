@@ -1,2 +1,2 @@
 # Task-List
-experiments with DOM and creates a user-defined task list
+explores working with DOM, browser events and local storage | creates a user-defined task list
